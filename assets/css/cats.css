@@ -1,0 +1,30 @@
+body {
+   background-image: url("../img/tile.png");
+   background-repeat: repeat;
+   font-family: 'Cabin Sketch', cursive;
+   text-align: center;
+}
+
+h1 {
+   color: crimson;
+   text-shadow: 6px 6px black;
+   font-size: 72pt;
+}
+
+img {
+   display: block;
+   margin: 0 auto;
+   box-shadow: 0 0 70px 20px lightsalmon;
+   height: 640px;
+}
+
+img:hover {
+   box-shadow: 0 0 70px 20px orangered;
+   cursor: pointer;
+}
+
+div {
+   margin-top: 60px;
+   font-size: 48pt;
+   font-weight: bold;
+}
