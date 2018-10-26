@@ -15,7 +15,6 @@ img {
    display: block;
    margin: 0 auto;
    box-shadow: 0 0 70px 20px lightsalmon;
-   height: 640px;
 }
 
 img:hover {
